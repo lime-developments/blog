@@ -6,7 +6,6 @@
 .navbar-default{
   background: #093750 !important;
   border: none !important;
-
 }
 
 .navbar-default .navbar-nav > li > a{
@@ -188,8 +187,6 @@ $on-laptop:        800px;
         @content;
     }
 }
-
-
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
