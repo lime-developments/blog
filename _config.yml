@@ -10,7 +10,7 @@ title: lime developments
 email: limedevelopments@gmail.com
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://lime.dev" # the base hostname & protocol for your site
+url: "https://lime.dev" # the base hostname & protocol for your site
 github_username: lime-developments
 
 # Build settings
