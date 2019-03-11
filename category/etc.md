@@ -2,5 +2,5 @@
 layout: category
 title: etc
 category: etc
-permalink: /etc
+permalink: /etc/
 ---
