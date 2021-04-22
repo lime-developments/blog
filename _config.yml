@@ -10,7 +10,7 @@ title: lime blog
 email: limedevelopments@gmail.com
 
 #write html inside the double quotes to display in jumbotron
-description: "<h3>The blog for SW dev.</h3>Hope you enjoy it!"
+description: "<h3>The for SW dev.</h3>Hope you enjoy it!"
 <div class="portfolio-container">
     <iframe src="http://www.youtube.com/embed/4aQwT3n2c1Q" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
