@@ -3,6 +3,14 @@
 ---
 @charset "utf-8";
 
+.portfolio-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
 .navbar-default{
   background: #093750 !important;
   border: none !important;
